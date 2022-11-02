@@ -1,1 +1,2 @@
-# portfolio
+# portfolio 
+I'm a writer, educator, and researcher with over 9 years of teaching and research experience at leading Universities across the US and UK. I have expertise in **writing and editing**, **technical and scientific communication**, **online and in-person learning design**, and **curriculum design**. I also have extensive experience building strong collaborations with subject-matter experts in specialized areas of technical and scientific research, and I have facilitated the communication of their research to broad audiences.
