@@ -1,4 +1,4 @@
-This documentation describes how to use a visualization tool to analyze Your data!
+This documentation describes how to use a visualization tool to analyze Your Data!
 
 Please note that visualizing data requires that you first have data to analyze :)
 
